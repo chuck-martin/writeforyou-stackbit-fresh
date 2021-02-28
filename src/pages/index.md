@@ -16,7 +16,6 @@ sections:
 
       *   Information about me
 
-
       *   A blog where I write about topics that interest me, especially in the
       fields of technical communication and user experience
 
