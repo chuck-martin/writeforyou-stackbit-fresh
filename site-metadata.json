@@ -54,7 +54,7 @@
             },
             {
                 "type": "action",
-                "label": "Instagram",
+                "label": "Facebook",
                 "url": "https://www.facebook.com/chuck.martin",
                 "style": "icon",
                 "icon_class": "facebook",
