@@ -10,11 +10,18 @@ sections:
   - type: section_content
     title: About
     section_id: about
-    content: >-
-      This is the "about" excerpt. It can be used to provide a paragraph about
-      yourself that people can read on the homepage to get a sense of who you
-      are. There also exists a dedicated about page where you can write more
-      about yourself for those who are interested.
+    content: >
+      This is my personal and professional website. It contains:
+
+
+      *   Information about me
+
+
+      *   A blog where I write about topics that interest me, especially in the
+      fields of technical communication and user experience
+
+
+      *   My portfolio 
     actions:
       - type: action
         label: Contact Me
