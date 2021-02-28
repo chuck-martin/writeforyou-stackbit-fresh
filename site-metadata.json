@@ -8,7 +8,7 @@
         "tagline": "Creating better user experiences by creating better content experiences",
         "profile_img": "images/avatar.png",
         "profile_img_alt": "Author avatar",
-        "background": "dark",
+        "background": "light",
         "has_nav": true,
         "nav_links": [
             {
