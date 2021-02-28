@@ -24,6 +24,15 @@
                 "style": "link"
             },
             {
+                "label": "Portfolio",
+                "url": "#",
+                "style": "link",
+                "icon_class": "dev",
+                "new_window": false,
+                "no_follow": false,
+                "type": "action"
+            },
+            {
                 "type": "action",
                 "label": "Style Guide",
                 "url": "/style-guide/",
@@ -40,15 +49,6 @@
                 "label": "Contact",
                 "url": "/contact/",
                 "style": "link"
-            },
-            {
-                "label": "Portfolio",
-                "url": "#",
-                "style": "link",
-                "icon_class": "dev",
-                "new_window": false,
-                "no_follow": false,
-                "type": "action"
             }
         ],
         "has_social": true,
