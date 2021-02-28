@@ -11,8 +11,17 @@ sections:
     title: About
     section_id: about
     content: >
-      This is my personal and professional website. It contains:Information about meA blog where I write about topics that interest me, especially in the
-      fields of technical communication and user experienceMy portfolio 
+      This is my personal and professional website. It contains:
+
+
+      *   Information about me
+
+
+      *   A blog where I write about topics that interest me, especially in the
+      fields of technical communication and user experience
+
+
+      *   My portfolio
     actions:
       - type: action
         label: Contact Me
