@@ -13,7 +13,6 @@ sections:
     content: >
       This is my personal and professional website. It contains:
 
-
       *   Information about me
 
       *   A blog where I write about topics that interest me, especially in the
